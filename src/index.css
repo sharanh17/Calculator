@@ -36,3 +36,8 @@ button {
   font-size: 25px;
   border-radius: 5px;
 }
+
+.new{
+  display: flex;
+  justify-content: center;
+}
